@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(255,165,0);
+}
+
+div.teaser {
+  height: 40em;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.teaser p {
+  margin: 0;
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+  font-size: 5em;
+}
