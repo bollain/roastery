@@ -8,6 +8,7 @@ window.onload = function(){
       "Win",
       "Big Beautiful Roasts",
       "Covfefe",
+      "Make Coffee Great Again",
       "Coming Soon..."
     ];
     var node = document.getElementsByTagName("p")[0];
